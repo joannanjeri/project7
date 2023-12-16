@@ -22,7 +22,8 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![project7final.gif](..%2F..%2Fc323%2Fproject7final.gif)
+![project7final](https://github.com/joannanjeri/project7/assets/112664855/bc3a5b1b-ee8f-4b11-87a3-535f4cd08548)
+
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
 
